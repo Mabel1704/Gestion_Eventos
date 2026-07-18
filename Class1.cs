@@ -6,7 +6,7 @@ public class Class1
 	{
 		fhoefbowuebfwbfebw
 
-			aguacate limon aguante aguante aguante
+			aguacate limon aguante aguante aguante aguacate 
 
 
     }
